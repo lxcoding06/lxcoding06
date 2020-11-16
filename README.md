@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I'm Laurent <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**lxcoding666/lxcoding666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="PHP" height="125px" src="https://www.php.net/images/logos/new-php-logo.png" />
+<img align="right" alt="Bash" height="125px" src="https://bashlogo.com/img/logo/png/full_colored_dark.png" />
 
-Here are some ideas to get you started:
+**Personal Stuffs:**
+- 🔭 I’m currently working on Home with love
+- 🌱 I’m currently learning PHP and Javascript
+- ✨ Interested in backend-ish things 
+- 📫 Reach me via [email](mailto:laurentiusjohanes6@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![🦉 LX CODING's github stats](https://github-readme-stats.vercel.app/api?username=lxcoding666&show_icons=true&hide_border=true&hide=issues)](https://github.com/lxcoding666)
+
