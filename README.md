@@ -1,13 +1,50 @@
-## Hello, I'm Laurent <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+```php
+<?php
 
-<img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/JqDcpPX8vWahUny0pE/200.gif" />
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+namespace LXCODING666;
 
-**Personal Stuffs:**
-- 🔭 I’m currently working on Home with love
-- 🌱 I’m currently learning PHP and Javascript
-- ✨ Interested in backend-ish things 
-- 📫 Reach me via [email](mailto:laurentiusjohanes6@gmail.com)
+class Me
+{
+    static function says() {echo 'Hi, Im Laurent';}  
 
-[![🦉 LX CODING's github stats](https://github-readme-stats.vercel.app/api?username=lxcoding666&show_icons=true&hide_border=true&hide=issues)](https://github.com/lxcoding666)
+    }
 
+    public function getStudyNow(): array
+    {
+        return [
+                'study' => [
+                'faculty' => 'Informatics',
+                'semester' => '2nd semester'         
+                ]
+            ];
+    }
+
+    public function getWorkplaceNow(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'SS.CC BATAM CENTER',
+                'position' => 'IT CONSULTANT'         
+            ]
+        ];
+    }
+
+    public function getKnowledgeNow(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            NodeJs::class,
+            Python::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Gcp::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'Make My Dream Come Through.';
+    }
+}
+```
