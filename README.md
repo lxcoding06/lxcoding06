@@ -14,7 +14,7 @@ class Me
         return [
                 'study' => [
                 'faculty' => 'Informatics',
-                'semester' => '3rd semester'         
+                'semester' => '6th semester'         
                 ]
             ];
     }
@@ -39,6 +39,7 @@ class Me
             ReactNative::class,
             TailwindCss::class,
             Gcp::class,
+            Azure::class,
         ];
     }
 
