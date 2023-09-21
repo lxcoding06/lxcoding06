@@ -14,7 +14,7 @@ class Me
         return [
                 'study' => [
                 'faculty' => 'Informatics',
-                'semester' => '6th semester'         
+                'semester' => '7th semester'         
                 ]
             ];
     }
