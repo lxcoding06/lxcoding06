@@ -9,24 +9,34 @@ class Me
 
     }
 
-    public function getStudyNow(): array
+    public function getStudied(): array
     {
         return [
                 'study' => [
-                'faculty' => 'Informatics',
-                'semester' => '8th semester'         
+                'campus' => 'Amikom University Purwokerto'
+                'faculty' => 'Informatics',         
                 ]
             ];
     }
 
-    public function getWorkplaceNow(): array
+    public function getWorkedplace(): array
     {
         return [
-            'workplace' => [
+            'workplaces' => [
+            [
+                'company' => 'Nemolab',
+                'position' => 'Server Administrator',
+                'since' => '2021',
+                'until' => '2022'         
+            ],
+            [
                 'company' => 'SS.CC BATAM CENTER',
-                'position' => 'IT CONSULTANT'         
-            ]
-        ];
+                'position' => 'IT CONSULTANT',
+                'since' => '2022',
+                'until' => '2023'             
+            ],
+        ]
+    ];
     }
 
     public function getKnowledgeNow(): array
@@ -40,6 +50,7 @@ class Me
             TailwindCss::class,
             Gcp::class,
             Azure::class,
+            Server::class,
         ];
     }
 
