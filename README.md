@@ -1,7 +1,7 @@
 ```php
 <?php
 
-namespace LXCODING666;
+namespace LXCODING06;
 
 class Me
 {
