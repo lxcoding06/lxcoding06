@@ -5,7 +5,7 @@ namespace LXCODING06;
 
 class Me
 {
-    static function says() {echo 'Hi, Im Laurent';}  
+    static function says() {echo 'Hi, Im Laurentius Johanes Dasion Manuk';}  
 
     }
 
